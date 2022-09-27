@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/MuriloAkita/MuriloAkita/blob/output/github-contribution-grid-snake.svg)
+[![Generate snake animation](https://github.com/MuriloAkita/MuriloAkita/actions/workflows/snake.yml/badge.svg)](https://github.com/MuriloAkita/MuriloAkita/actions/workflows/snake.yml)
 
 ###
