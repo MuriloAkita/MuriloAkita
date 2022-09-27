@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MuriloAkita/MuriloAkita/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ###
