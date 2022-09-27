@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">⚙Skills (sorted by knowledge):</h3>
+<h3 align="left">⚙ Skills (sorted by knowledge):</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">💻Programs & platforms:</h3>
+<h3 align="left">💻 Programs & platforms:</h3>
 
 ###
 
@@ -50,6 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows8 logo"  />
 </div>
+
+###
+
+<h3 align="left">📩 Contact:</h3>
 
 ###
 
