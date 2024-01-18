@@ -75,6 +75,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/MuriloAkita/MuriloAkita/blob/output/github-contribution-grid-snake.svg)
-
 ###
