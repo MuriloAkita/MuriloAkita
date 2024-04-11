@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Murilo, and I'm a junior backend developer.</p>
+<p align="left">Hi, my name is Murilo, and I'm a fullstack developer.</p>
 
 ###
 
